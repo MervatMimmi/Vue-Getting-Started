@@ -1,0 +1,17 @@
+Installing Node.js and the Vue CLI
+
+-Run npm install -g @vue/cli   
+    $ vue --version
+    $ node -- version
+
+-Vetur and Vue Snippets
+-Vue dev tools browser extension
+
+//--------------------------------------------------------------//
+
+// create a new app
+    $vue create {app name} -d
+    $cd {app name} 
+    $npm run serve
+    
+
